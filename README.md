@@ -2,11 +2,11 @@
 Data Preprocessing with Pandas and Scikit-Learn
 This repository demonstrates how to handle common data preprocessing tasks, such as converting categorical data to numerical data and filling missing values, using Pandas and Scikit-learn.
 
-Overview
+# Overview
 Preprocessing data is a critical step in any machine learning or data analysis pipeline. This project includes:
 
-# Converting Categorical Data: Encoding categorical variables into numerical formats (e.g., One-Hot Encoding, Label Encoding).
-# Handling Missing Data: Techniques to fill missing values in datasets using strategies like mean, median, mode, or custom values.
+Converting Categorical Data: Encoding categorical variables into numerical formats (e.g., One-Hot Encoding, Label Encoding).
+Handling Missing Data: Techniques to fill missing values in datasets using strategies like mean, median, mode, or custom values.
 
 
 # Tools Used
